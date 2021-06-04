@@ -1,0 +1,2 @@
+<h1> Bienvenue sur la page 2 </h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque rem inventore assumenda, facere modi laboriosam quae beatae perspiciatis nemo, consequuntur dolores neque doloribus nostrum distinctio delectus culpa. Sed, iure beatae?</p>
